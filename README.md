@@ -6,4 +6,3 @@ Specifically, the scripts included are:
 
 - Download of test data
 - Downsampling of test data to mimic real world different coverages
-- R script that computes the metrics of our inferred copy number alterations and the ground truth. 
