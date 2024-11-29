@@ -1,0 +1,24 @@
+genome: hg38
+analysis_type: liquid_biopsy
+aligner: false
+binsize: 500
+size_selection: true
+run_gistic: true
+gistic_qval: 0.05
+gistic_t_amp: 0.3
+gistic_t_del: 0.3
+gistic_remove_x: true
+gistic_broad_analysis: true
+gistic_broad_chr_length: 0.7
+normal_panel: /path/to//ctDNA_PoN_median.rds
+ichorcna_normal_states: "0.90, 0.98, 0.99, 0.995, 0.999"
+ichorcna_readcounter_chrs: "chr1,chr2,chr3,chr4,chr5,chr6,chr7,chr8,chr9,chr10,chr11,chr12,chr13,chr14,chr15,chr16,chr17,chr18,chr19,chr20,chr21,chr22,chrX"
+ichorcna_chrs_to_use: "paste0('chr', c(1:22, 'X'))"
+ichorcna_chrs_to_train: "paste0('chr', c(1:22, 'X'))"
+ichorcna_max_cn: 6
+ichorcna_estimate_ploidy: false
+ichorcna_estimate_sc: false
+ichorcna_gc_wig: /path/to//ichorCNA/gc_hg38_500kb.wig
+ichorcna_map_wig: /path/to/ichorCNA/map_hg38_500kb.wig
+ichorcna_centromere_file: /path/to/ichorCNA/GRCh38.GCA_000001405.2_centromere_acen.txt
+caller: ichorcna
