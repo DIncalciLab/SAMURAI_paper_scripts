@@ -1,0 +1,14 @@
+genome: hg38
+analysis_type: solid_biopsy
+aligner: false
+binsize: 30
+size_selection: false
+run_gistic: true
+gistic_qval: 0.05
+gistic_t_amp: 0.3
+gistic_t_del: 0.3
+gistic_remove_x: true
+gistic_broad_analysis: true
+gistic_broad_chr_length: 0.7
+caller: ascat_sc
+compute_signatures: true
