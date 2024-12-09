@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+188_Bis	0.78	1.74

@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+131_left	0.33	2.51

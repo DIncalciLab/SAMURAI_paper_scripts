@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+T23	1	2

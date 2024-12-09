@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+T22	0.86	2.9299999999999997

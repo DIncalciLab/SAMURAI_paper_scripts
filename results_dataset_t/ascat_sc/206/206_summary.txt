@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+206	1	2

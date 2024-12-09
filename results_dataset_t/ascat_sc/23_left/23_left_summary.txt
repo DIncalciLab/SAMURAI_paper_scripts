@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+23_left	1	2.01

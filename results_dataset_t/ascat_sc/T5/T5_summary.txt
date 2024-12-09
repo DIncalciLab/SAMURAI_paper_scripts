@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+T5	1	2.01

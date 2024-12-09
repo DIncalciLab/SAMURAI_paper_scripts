@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+73	0.75	2.05

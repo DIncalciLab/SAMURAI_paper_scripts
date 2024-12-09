@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+T4	1	3.7199999999999998

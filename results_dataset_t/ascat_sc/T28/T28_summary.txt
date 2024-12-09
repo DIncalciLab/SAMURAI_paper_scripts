@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+T28	1	2

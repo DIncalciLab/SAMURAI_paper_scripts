@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+T32	1	1.99

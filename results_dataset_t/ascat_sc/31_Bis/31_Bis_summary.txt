@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+31_Bis	0.6900000000000001	3.16

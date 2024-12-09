@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+T50	0.7000000000000001	2.08

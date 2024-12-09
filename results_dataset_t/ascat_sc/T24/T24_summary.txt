@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+T24	1	2.02

@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+T47	0.7000000000000001	3.41

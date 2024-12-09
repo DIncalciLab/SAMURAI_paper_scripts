@@ -1,0 +1,2 @@
+samplename	purity	ploidy
+113_left	0.92	1.8199999999999998
