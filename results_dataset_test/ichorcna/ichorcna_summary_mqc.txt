@@ -1,0 +1,2 @@
+samplename	Tumor Fraction	Ploidy	GC-Map correction MAD
+SAMPLE_TEST	0.9937	2.013	0.2495

@@ -1,0 +1,47 @@
+Sample	Tumor Fraction	Ploidy
+SAMPLE_TEST	0.9937	2.013
+
+
+SAMPLE_TEST
+Gender:	unknown
+Tumor Fraction:	0.9937
+Ploidy:	2.013
+Subclone Fraction:	NA
+Fraction Genome Subclonal:	0
+Fraction CNA Subclonal:	0
+Coverage:	NA
+ChrY coverage fraction:	NA
+Likelihood model:	t
+Student's t mean: -0.69, -0.0063, 0.4, 0.68, 0.91
+Student's t precision: 30, 59, 49, 95, 1.1
+Gamma Rate Init:	0.061
+GC-Map correction MAD:	0.2495
+Log-likelihood:	504.7
+
+
+n_0	phi_0	n_est	phi_est	Frac_genome_subclonal	Frac_CNA_subclonal	loglik
+0.5	2	0.0063	2.013	0	0	1048
+0.6	2	0.27	2.027	0	0	919.9
+0.7	2	0.94	2.136	0	0	506.3
+0.8	2	0.98	2.438	0	0	503
+0.9	2	0.99	3.018	0	0	504
+0.95	2	0.99	3.407	0	0	504.6
+0.99	2	0.99	3.851	0	0	504.7
+0.5	3	0.25	2.999	0	0	850.7
+0.6	3	0.25	2.999	0	0	850.7
+0.7	3	0.25	2.999	0	0	850.7
+0.8	3	0.25	2.999	0	0	850.7
+0.9	3	0.99	2.927	0	0	504.4
+0.99	3	0.99	3.613	0	0	504.7
+0.5	4	0.47	4.009	0	0	712.1
+0.6	4	0.47	4.009	0	0	712.1
+0.7	4	0.47	4.009	0	0	712.1
+0.8	4	0.47	4.009	0	0	712.1
+0.9	4	0.99	3.156	0	0	503.9
+0.99	4	0.99	3.518	0	0	504.6
+0.5	5	0.47	4.009	0	0	712.1
+0.6	5	0.47	4.009	0	0	712.1
+0.7	5	0.47	4.009	0	0	712.1
+0.8	5	0.47	4.009	0	0	712.1
+0.9	5	0.99	3.094	0	0	503.9
+0.99	5	0.99	3.576	0	0	504.6
