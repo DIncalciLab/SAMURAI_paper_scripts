@@ -1,0 +1,28 @@
+Sample	Tumor Fraction	Ploidy
+21614-PL1	0.04437	2
+
+
+21614-PL1
+Gender:	female
+Tumor Fraction:	0.04437
+Ploidy:	2
+Subclone Fraction:	NA
+Fraction Genome Subclonal:	0
+Fraction CNA Subclonal:	0
+Coverage:	NA
+ChrY coverage fraction:	0
+ChrX median log ratio:	-0.04377
+Likelihood model:	t
+Student's t mean: -0.022, 0, 0.022, 0.043, 0.064, 0.085
+Student's t precision: 1000, 1100, 1100, 1200, 1200, 43
+Gamma Rate Init:	0.0016
+GC-Map correction MAD:	0.05298
+Log-likelihood:	8722
+
+
+n_0	phi_0	n_est	phi_est	Frac_genome_subclonal	Frac_CNA_subclonal	loglik
+0.9	2	0.96	2	0	0	8769
+0.98	2	0.97	2	0	0	8722
+0.99	2	0.97	2	0	0	8722
+0.995	2	0.97	2	0	0	8722
+0.999	2	0.97	2	0	0	8722
